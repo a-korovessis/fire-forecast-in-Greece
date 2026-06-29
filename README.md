@@ -42,5 +42,5 @@ Three approximate drought indices were built: `Rain_7d`, `Rain_30d`, and `Days_w
 As prior research also recognizes, the problem contains extreme points that are hard to predict from meteorological data alone. The low R² and the difficulty of predicting the very large fires are not a weakness of the approach, but an inherent characteristic of the problem, factors such as arson, dry grass, or vegetation type are not available in the data.
 
 ## Authors
-- Alexandros Korovesis — [@a-korovesis](https://github.com/a-korovesis)
+- Alexandros Korovesis — [@a-korovessis](https://github.com/a-korovessis)
 - Evangelia Ntokou — [@evantokou](https://github.com/evantokou)
